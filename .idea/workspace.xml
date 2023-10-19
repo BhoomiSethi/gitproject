@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f75351b3-0166-4a4d-a32d-a96b3a7c7be0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/diff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2WtEAAxf7giq4EzBxvxlgExBLUg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,8 +32,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Anurag Sethi/gitproject",
@@ -53,7 +54,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697543329678</updated>
-      <workItem from="1697543330728" duration="1501000" />
+      <workItem from="1697543330728" duration="4421000" />
+      <workItem from="1697693855031" duration="5589000" />
     </task>
     <servers />
   </component>
